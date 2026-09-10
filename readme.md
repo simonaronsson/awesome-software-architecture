@@ -126,6 +126,7 @@ contain some resources that are also present in more niche lists.
 
 - [How to learn software design and architecture - a roadmap](https://www.freecodecamp.org/news/software-design/) - Additional things helpful to learn to get a firm understanding of software architecture.
 - [Software Architect Roadmap](https://roadmap.sh/software-architect) - A complete and structured guide to become a Software Architect.
+- [Wyrcan Engineering Roadmap](https://github.com/Wyrcan-io/roadmap) - Text-first 12-stage engineering curriculum grounded in Designing Data-Intensive Applications (DDIA), Linux internals, and production cloud architecture.
 
 ## Contributing
 
