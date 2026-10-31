@@ -60,6 +60,7 @@ contain some resources that are also present in more niche lists.
 - [Technical Debt, by Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) - Cost and impact of accumulating technical debt.
 - [The Magic Tricks of Testing, by Metz](https://www.youtube.com/watch?v=URSWYvyc42M) - Minimalistic ideals as a practical and pragmatic approach to software testing 🎥.
 - [TDD, Where did it all go wrong?, by Cooper](https://www.infoq.com/presentations/tdd-original/) - Suggestion on TDD practices and boundaries to reduce coupling 🎥.
+- [Software Architecture for Product Managers](https://www.amazon.com/dp/B0HGBQDQNS/) - A practical introduction to software architecture for Product Managers, covering system components, architectural patterns, scalability, and technical trade-offs.
 
 ## Documentation
 
