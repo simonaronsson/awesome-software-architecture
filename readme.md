@@ -94,6 +94,7 @@ contain some resources that are also present in more niche lists.
 - [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
 - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 - [Pumler](https://pumler.com) - Real-time collaborative text-to-diagram editor for PlantUML, Mermaid, and Structurizr (C4), with browser-based PNG/SVG export.
+- [Ifiok](https://ifiok.archiet.ai) - Turns a plain-English system description into a scored ArchiMate 3.2 blueprint with layered elements, relationships and soundness gaps, and generates code from it. Free plan available.
 
 ## Frameworks
 
