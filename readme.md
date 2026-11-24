@@ -94,6 +94,7 @@ contain some resources that are also present in more niche lists.
 - [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
 - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 - [Pumler](https://pumler.com) - Real-time collaborative text-to-diagram editor for PlantUML, Mermaid, and Structurizr (C4), with browser-based PNG/SVG export.
+- [ArchScript](https://archscript.dev) - Architecture as code with a generated diagram, architecture rules and exports to Mermaid, PlantUML and Markdown. Free in the browser; also for VS Code, Mac, iPad and iPhone.
 
 ## Frameworks
 
