@@ -94,6 +94,7 @@ contain some resources that are also present in more niche lists.
 - [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
 - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 - [Pumler](https://pumler.com) - Real-time collaborative text-to-diagram editor for PlantUML, Mermaid, and Structurizr (C4), with browser-based PNG/SVG export.
+- [merIDK](https://meridk.pages.dev/) - Free browser-based Mermaid editor with live preview, SVG/PNG export and short share links. Covers C4, sequence, ER and 30+ other diagram types.
 
 ## Frameworks
 
